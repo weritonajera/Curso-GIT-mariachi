@@ -6,4 +6,7 @@
 * Aquaman
 * Mujer Maravilla
 * Shazam
-* Cybort
+* Cybort 
+* green lanter
+* robin
+* ironman
